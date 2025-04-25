@@ -16,7 +16,7 @@
 
 ## 📫 How to reach me:
 - 📧 zafer.s.altun@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/) *(eklemediysen ekleyelim reis)*  
+- 🔗 [LinkedIn](https://www.linkedin.com/)
 - 🎮 Discord: `zafer_`
 
 ---
