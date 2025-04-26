@@ -6,9 +6,9 @@
 🎯 Vice President @ IBU Esports
 
 ## 🛠️ Tech Stack
-- 🧠 **Languages:** C, HTML, CSS, JavaScript (learning React)
+- 🧠 **Languages:** C, HTML, CSS, C# (learning React)
 - 🎮 **Game Dev:** Unity, C# (3D Mechanics, Combat Systems)
-- 🧪 **Others:** Git & GitHub, VSCode, Firebase, Figma
+- 🧪 **Others:** Git & GitHub, VSCode
 
 ## 🚀 Current Projects
 - **Plague-Village-The-Forgotten** – Balkan Mythology RPG in development
