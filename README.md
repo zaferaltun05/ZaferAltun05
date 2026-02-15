@@ -11,10 +11,6 @@
 - 🎮 **Game Dev:** Unity, C# (3D Mechanics, Combat Systems)
 - 🧪 **Others:** Git & GitHub, VSCode
 
-## 🚀 Current Projects
-- **Plague-Village-The-Forgotten** – Balkan Mythology RPG in development
-- **AI Chatbot** – OpenAI powered assistant for IBU campus use
-
 ## 📫 How to reach me:
 - 📧 zafer.s.altun@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/)
