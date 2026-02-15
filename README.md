@@ -1,8 +1,11 @@
 # Hi there, I'm Zafer! 👋
 
 🎓 I'm a 4rd year Computer Engineering student at [International Balkan University (IBU)](https://ibu.edu.mk/)  
+
 🎮 Passionate about Game Development, AI and Tech ,Fivem Development
+
 🎯 President @ IBU Esports
+
 🎯 President @ President of the Faculty of Engineering
 
 ## 🛠️ Tech Stack
