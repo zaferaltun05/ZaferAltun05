@@ -1,13 +1,12 @@
 # Hi there, I'm Zafer! 👋
 
 🎓 I'm a 4rd year Computer Engineering student at [International Balkan University (IBU)](https://ibu.edu.mk/)  
-🎮 Passionate about Game Development, AI and Tech  
-💻 Currently working on a Balkan-themed 3D RPG in Unity  
+🎮 Passionate about Game Development, AI and Tech ,Fivem Development
 🎯 President @ IBU Esports
 🎯 President @ President of the Faculty of Engineering
 
 ## 🛠️ Tech Stack
-- 🧠 **Languages:** C, HTML, CSS, C# (learning React)
+- 🧠 **Languages:** C, HTML, CSS, C# ,LUA
 - 🎮 **Game Dev:** Unity, C# (3D Mechanics, Combat Systems)
 - 🧪 **Others:** Git & GitHub, VSCode
 
